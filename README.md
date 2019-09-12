@@ -1,6 +1,6 @@
-# Welcome to GitHub
+# About Me
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+Starting a personal github repository and learning how to use github for both teaching, personal use, and research. 
 
 ## Repositories
 
